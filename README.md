@@ -9,6 +9,7 @@ Input Fields: Users can input their height (in centimeters) and weight (in kilog
 BMI Calculation: Once the user inputs their data, the tool calculates their BMI and classifies it into one of the categories: Underweight, Normal weight, Overweight, or Obese.
 
 Technologies Used:
+
 HTML
 
 CSS (for styling the page)
