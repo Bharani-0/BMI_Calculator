@@ -14,4 +14,4 @@ HTML
 
 CSS (for styling the page)
 
-JavaScript (for BMI calculation
+JavaScript (for BMI calculation)
